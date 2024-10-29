@@ -1,12 +1,22 @@
 package hr.management.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Vehicle {
     //Atributos
+    @JsonProperty("matricula")
     private String plate;
+    @JsonProperty("marca")
     private String brand;
+    @JsonProperty("modelo")
     private String model;
+    @JsonProperty("añoCompra")
     private int yearBought;
 
+    //Constructor vacío
+    public Vehicle() {
+
+    }
     public Vehicle(String plate, String brand, String model, int yearBought) {
         this.plate = plate;
         this.brand = brand;

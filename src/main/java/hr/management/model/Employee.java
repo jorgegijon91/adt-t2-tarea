@@ -1,12 +1,21 @@
 package hr.management.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Employee {
     //Atributos
     private String dni;
+    @JsonProperty("nombre")
     private String name;
+    @JsonProperty("añoContratado")
     private int yearHired;
+    @JsonProperty("matriculaVehiculo")
     private String vehiclePlate;
 
+    //Constructor vacío
+    public Employee() {
+
+    }
     //Constructor
     public Employee(String dni, String name, int yearHired, String vehiclePlate) {
         this.dni = dni;
