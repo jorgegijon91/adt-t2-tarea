@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d17fd3-cb79-46b4-ac6b-658642eae094" name="Changes" comment="Completamos la clase REportGenerator">
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/management/tools/XMLManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/management/tools/XMLManager.java" afterDir="false" />
+    <list default="true" id="30d17fd3-cb79-46b4-ac6b-658642eae094" name="Changes" comment="Completamos la clase XMLManager">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/employees.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/employees.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/vehicles.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/vehicles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/management/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/management/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/management/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/management/model/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/management/tools/JsonManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/management/tools/JsonManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/management/tools/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/management/tools/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730199075886</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completamos la clase XMLManager">
+      <option name="closed" value="true" />
+      <created>1730199373665</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730199373665</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +126,7 @@
     <MESSAGE value="Completamos la clase EmployeeManager" />
     <MESSAGE value="Completamos la clase JsonManager y añadimos la dependencia al pom" />
     <MESSAGE value="Completamos la clase REportGenerator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completamos la clase REportGenerator" />
+    <MESSAGE value="Completamos la clase XMLManager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completamos la clase XMLManager" />
   </component>
 </project>
