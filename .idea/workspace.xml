@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d17fd3-cb79-46b4-ac6b-658642eae094" name="Changes" comment="Completamos la clase JsonManager y añadimos la dependencia al pom">
-      <change beforePath="$PROJECT_DIR$/src/main/java/hr/management/tools/ReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/management/tools/ReportGenerator.java" afterDir="false" />
+    <list default="true" id="30d17fd3-cb79-46b4-ac6b-658642eae094" name="Changes" comment="Completamos la clase REportGenerator">
+      <change beforePath="$PROJECT_DIR$/src/main/java/hr/management/tools/XMLManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hr/management/tools/XMLManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730198809876</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completamos la clase REportGenerator">
+      <option name="closed" value="true" />
+      <created>1730199075886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730199075886</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,6 +110,7 @@
     <MESSAGE value="Completamos las clases Employee y Vehicle" />
     <MESSAGE value="Completamos la clase EmployeeManager" />
     <MESSAGE value="Completamos la clase JsonManager y añadimos la dependencia al pom" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completamos la clase JsonManager y añadimos la dependencia al pom" />
+    <MESSAGE value="Completamos la clase REportGenerator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completamos la clase REportGenerator" />
   </component>
 </project>
